@@ -1,0 +1,97 @@
+The following post was made to the sci.astro.amateur newsgroup in response
+to one of the religous wars that perpetually flairs - Dob v.s. EQ mounts.
+One of the primary arguments used by pro-Dob fans is that they are easier
+to learn and use by beginners.  Unfortunately, this advice is usually
+given by non-beginners!
+
+One thing I will add to the mix.  Another pro-Dob argument is that they
+are quicker to set up.  This is true if you are travelling away from home
+to do your observing.  I do most of my observing from my back yard, and
+there can be no quicker setup.  I lift the scope, walk out the door, and
+set it down.  Done.  No complicated polar alignment (I just set it down with
+the polar axis pointing roughly North).  No monkeying with setting circles.
+
+If I'm going to drive to a viewing spot, then I do have to remove three
+bolts at home (4 minutes), and put them back in on-location (4 more minutes).
+However, these 8 minutes are nothing compared with the bother of driving.
+
+NOTE: for young children, a Dob might be easier to carry than an EQ.  If
+choosing a Dob makes the difference for the child being able to set
+up without help, then all other arguments pale.  Go with the setup that
+the kid can handle himself!!!
+
+Anyway, here's the best post I've seen on the subject:
+____________________________________________________________________________
+
+From kwichman@draper.com Mon Feb 23 08:25:55 CST 1998
+Article: 147336 of sci.astro.amateur
+From: Keith Wichman <kwichman@draper.com>
+Subject: Re: Dob vs EQ.. ENOUGH with the dobs!... newbie speaks out!
+
+I'm an "authority" in this newsgroup finally!
+
+I'm a newbie... I bought a used scope with BOTH types of mounts.
+
+Since this thread deals (in part) with the effects of mounts on the
+early experiences of newcomers to the hobbie, I guess I'm actually an
+"expert" for once.  Read on for my tale and experience...
+
+I recently bought a Criterion RV-6 with EQ mount and clock drive.  I
+truly don't know if this counts as a "good" EQ mount but I doubt it's a
+bad one.  In the deal came a *very* crude but fair performing homemade
+dob mount.  I got the stuff home, and the first thing I went for was the
+dob because I had only a little time.  It was surprisingly easy to find
+stuff for the first time with the Telrad/dob combo.  I looked forward to
+having more time and setting up the EQ.
+
+I'm now comfortable using both and *both* serve a very important role
+for me as a newbie.
+
+DOB MOUNT:
+1) My kids can reach the eyepiece while standing on the ground, for
+crying out loud!!!  This is one of the biggest features for *my* needs. 
+We homeschool our kids and the scope is as much for them as myself.  On
+the EQ they're dangling in space on a stool which makes it hard for them
+and frightening for me.
+
+2) We have 4 kids => little free time.  My wife gets nervous when I
+throw open the basement bulkhead doors and THE MOUNT rises out into the
+night.  However, I can plop the dob mount outside and when I get a
+chance, pop out and view... it's much less of a production.
+
+3) I value it so much, I'm redesigning and building a new one on cloudy
+days.  I've been an avid woodworker and an Aerospace engineer for many
+years so this now becomes a hobby^2.
+
+4) Very little "inertia" to throwing this in the car to transport it to
+friends' house or remote sites.  
+
+EQ MOUNT:
+1) I definitely prefer this for high power viewing... one axis vs. 2 to
+control or none with the clock drive.  
+
+2) If I really want to study or sketch, it has the benefit (for me) of
+keeping the object locked in one degree of freedom.  I can run inside
+and change a diaper, or do the dishes, then blast back out and sweep
+back to my target.  Or, better yet, just leave the drive running.  Very
+helpful!
+
+3) I imagine the setting circles may come in handy, but so far the
+Telrad and good charts have made it slick to make a big dent in the
+Messier catalogue.
+
+SUMMARY:
+As a newbie, BOTH are valuable and serve a vital purpose.  I'm thankful
+I have both.  I know I view more often *because* I have the dob mount. 
+The EQ is my choice for extended viewing sessions.  If I could only keep
+one... it'd have to be the dob (the new one I'm building, that is). 
+This is mainly due to convenience, transportability, use with and by my
+children, etc.  I'm glad I don't have to pick only one though.  
+
+I'd recommend, if possible, going my route.  Buy a good (assuming mine
+is good) EQ mount and for peanuts build a high quality dob mount.  My
+children could build one with only a little help.  Then, each night just
+pick your poison based on it's circumstances.
+
+Peace,
+Keith.
